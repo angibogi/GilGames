@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GilGames/static/css/main.417ddab3.css",
-    "main.js": "/GilGames/static/js/main.0381bb46.js",
+    "main.js": "/GilGames/static/js/main.69c22a23.js",
     "static/js/787.8d9ef11e.chunk.js": "/GilGames/static/js/787.8d9ef11e.chunk.js",
     "static/media/slider1.jpg": "/GilGames/static/media/slider1.81b0cadc89e385682da7.jpg",
     "static/media/slider3.jpg": "/GilGames/static/media/slider3.127ce7b8d629b13751e6.jpg",
@@ -14,11 +14,11 @@
     "static/media/logo.png": "/GilGames/static/media/logo.034d5d1adc7897ae7e4e.png",
     "index.html": "/GilGames/index.html",
     "main.417ddab3.css.map": "/GilGames/static/css/main.417ddab3.css.map",
-    "main.0381bb46.js.map": "/GilGames/static/js/main.0381bb46.js.map",
+    "main.69c22a23.js.map": "/GilGames/static/js/main.69c22a23.js.map",
     "787.8d9ef11e.chunk.js.map": "/GilGames/static/js/787.8d9ef11e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.417ddab3.css",
-    "static/js/main.0381bb46.js"
+    "static/js/main.69c22a23.js"
   ]
 }
